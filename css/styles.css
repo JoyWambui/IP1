@@ -5,3 +5,10 @@ header {
   font-size: 40pt;
   color: antiquewhite;
 }
+h1 {
+  border: 5px solid black;
+  padding: 6px;
+  text-align: center;
+  background-image: url(/home/bobo/Desktop/moringa-school-projects/ip-wk1/images/background.jpeg);
+  color: antiquewhite;
+}
