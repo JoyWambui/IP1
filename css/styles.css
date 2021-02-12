@@ -34,4 +34,7 @@ h2{
   height: 37px;
   padding: 6px;
 }
+aside {
+  float: left;
+}
 
