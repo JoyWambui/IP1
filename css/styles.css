@@ -66,4 +66,10 @@ ul p {
   font-style: italic;
   font-weight: normal;
 }
+span {
+  background-color: #051F20;
+  color: antiquewhite;
+  font-style: italic;
+  font-weight: bold;
+}
 
