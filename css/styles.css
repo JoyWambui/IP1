@@ -40,11 +40,12 @@ h2{
 }
 .column {
   float: left;
-  width: 49%;
+  width: 48.7%;
   border: 5px solid black;
   margin: 4px;
   background-color: antiquewhite;
   font-size: 15pt;
+  padding: 3px;
 }
 .row after {
   content: "";
