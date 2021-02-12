@@ -27,6 +27,7 @@ h1 {
 }
 body {
   background-color: #051F20;
+  font-family: 'Times New Roman', Times, serif;
 }
 h2{
   font-family: 'Times New Roman', Times, serif;
@@ -39,12 +40,13 @@ h2{
 }
 .column {
   float: left;
-  width: 50%;
+  width: 49%;
   border: 5px solid black;
   margin: 4px;
   background-color: antiquewhite;
+  font-size: 15pt;
 }
-.row: after {
+.row after {
   content: "";
   display: table;
   clear: both;
@@ -52,8 +54,16 @@ h2{
 .column img {
   width: 600px;
 }
-li {
+ul {
   font-weight: bold;
   font-size: 20pt;
+}
+ul p {
+  font-weight: normal;
+  font-size: 15pt;
+}
+#hobbies {
+  font-style: italic;
+  font-weight: normal;
 }
 
