@@ -4,6 +4,7 @@ header {
   text-align: center;
   font-size: 40pt;
   color: antiquewhite;
+  margin: 4px;
 }
 h1 {
   border: 5px solid black;
@@ -11,10 +12,12 @@ h1 {
   text-align: center;
   background-image: url(/home/bobo/Desktop/moringa-school-projects/ip-wk1/images/background.jpeg);
   color: antiquewhite;
+  margin: 4px;
 }
 .section-one {
   border: 5px ;
   text-align: center;
+  margin: 4px;
   background-image: url(/home/bobo/Desktop/moringa-school-projects/ip-wk1/images/background2.jpeg);
 }
 .section-one img {
@@ -23,25 +26,34 @@ h1 {
   width: 285px;
 }
 body {
-  background-color: antiquewhite;
+  background-color: #051F20;
 }
 h2{
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
-  background-image: url(/home/bobo/Desktop/moringa-school-projects/ip-wk1/images/background3.jpeg);
   font-size: 20pt;
   color: antiquewhite;
   height: 37px;
+  background-image: url(/home/bobo/Desktop/moringa-school-projects/ip-wk1/images/background3.jpeg);
   padding: 6px;
 }
 .column {
   float: left;
   width: 50%;
-  border: 1px solid black;
+  border: 5px solid black;
+  margin: 4px;
+  background-color: antiquewhite;
 }
 .row: after {
   content: "";
   display: table;
   clear: both;
+}
+.column img {
+  width: 600px;
+}
+li {
+  font-weight: bold;
+  font-size: 20pt;
 }
 
