@@ -10,7 +10,7 @@ h1 {
   border: 5px solid black;
   padding: 6px;
   text-align: center;
-  background-image: url(/home/bobo/Desktop/moringa-school-projects/ip-wk1/images/background.jpeg);
+  background-image: url(https://images.pexels.com/photos/1407305/pexels-photo-1407305.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
   color: antiquewhite;
   margin: 4px;
 }
@@ -18,7 +18,7 @@ h1 {
   border: 5px ;
   text-align: center;
   margin: 4px;
-  background-image: url(/home/bobo/Desktop/moringa-school-projects/ip-wk1/images/background2.jpeg);
+  background-image: url(https://images.pexels.com/photos/2409038/pexels-photo-2409038.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
 }
 .section-one img {
   border: 5px solid silver;
@@ -35,7 +35,7 @@ h2{
   font-size: 20pt;
   color: antiquewhite;
   height: 37px;
-  background-image: url(/home/bobo/Desktop/moringa-school-projects/ip-wk1/images/background3.jpeg);
+  background-image: url(https://images.pexels.com/photos/2609107/pexels-photo-2609107.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
   padding: 6px;
   background-color: black;
 }
