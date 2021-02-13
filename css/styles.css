@@ -37,6 +37,7 @@ h2{
   height: 37px;
   background-image: url(/home/bobo/Desktop/moringa-school-projects/ip-wk1/images/background3.jpeg);
   padding: 6px;
+  background-color: black;
 }
 .column {
   float: left;
